@@ -14,3 +14,5 @@ ls -a(aはallの略)　
 ls -a .git .gitというのがフォルダ名でその中にいろいろなファイルがあることがわかる
 
 git statut:今のリポジトリの状態がわかる（変更加えられているかいないか）
+
+git log:履歴を確認できる　git log --oneline/git log -n3/git log --oneline -n3
